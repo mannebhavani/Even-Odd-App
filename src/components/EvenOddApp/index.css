@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.bg-container {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+  padding: 10px;
+}
+.btn-style {
+  border-radius: 5px;
+  background-color: white;
+  border-width: 0px;
+}
+.change-text-para {
+  font-family: 'Roboto';
+  color: #334155;
+  font-size: 20px;
+}
+.heading {
+  font-size: 30px;
+  color: black;
+}
+
+.descrip {
+  font-size: 15px;
+  color: #334155;
+}
